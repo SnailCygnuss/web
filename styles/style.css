@@ -25,7 +25,7 @@ body {
 p {
     /*width: 100px*/
     font-size: 16px;
-    line-height: 2;
+    line-height: 1.25;
     letter-spacing: 1px;
 }
 
